@@ -1,5 +1,4 @@
-# Funderingar:
-
+# Features
 # - Automatiserad testning
 #
 
