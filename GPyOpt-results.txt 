@@ -1,8 +1,8 @@
 --------------------------------- Results file --------------------------------------
 GPyOpt Version 1.0.0 
-Date and time:              Mon Jan  4 18:55:02 2016
-Optimization completed:     YES, 14 samples collected.
-Optimization time:          3.45351600647 seconds.
+Date and time:              Sun Jan 17 14:35:33 2016
+Optimization completed:     YES, 41 samples collected.
+Optimization time:          187.614659786 seconds.
 --------------------------------- Problem set up ------------------------------------
 Problem Dimension:          8
 Problem bounds:             (0.001, 0.08), (-0.122, 0.122), (-0.122, 0.122), (0.005, 0.04), (0, 1), (0.001, 0.524), (0.101, 0.16), (0, 1)
@@ -11,5 +11,6 @@ Acquisition:                EI
 Acquisition optimizer:      fast_random
 Sparse GP:                  False
 --------------------------------- Summary ------------------------------------------
-Best found minimum:          3.4
-Minumum location:            0.08   0.122  0.122  0.005  0.     0.001  0.101  0.   
+Best found minimum:          0.
+Minumum location:            0.02793544 -0.08200589 -0.02914634  0.01162068  0.1277234   0.08114349
+  0.10358938  0.00491448
