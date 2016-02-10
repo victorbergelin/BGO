@@ -1,0 +1,113 @@
+
+Description:
+----------
+
+
+
+
+Gait parameters:
+----------
+
+MaxStepX = 0.0799999982119
+TorsoWy = -0.0842214207066
+TorsoWx = -0.0535481872394
+StepHeight = 0.0256276590016
+Stiffness = 0.0191489361702
+MaxStepTheta = 0.0855053363224
+MaxStepY = 0.126482979177
+MaxStepFrequency = 0.031914893617
+
+
+Stats:
+----------
+
+average_speed = 0.107780386634
+final_displacement = 5.30416759891
+elapsed_time = 49.2127349377
+
+
+Sensor values:
+----------
+
+times = [49.21273493766785]
+
+Device/SubDeviceList/LHipPitch/Position/Sensor/Value = [-0.3159620761871338]
+
+Device/SubDeviceList/LHipYawPitch/Position/Sensor/Value = [-0.8451919555664062]
+
+Device/SubDeviceList/InertialSensor/GyroscopeX/Sensor/Value = [0.0023968450259417295]
+
+Device/SubDeviceList/LKneePitch/ElectricCurrent/Sensor/Value = [0.0]
+
+Device/SubDeviceList/LAnkleRoll/Position/Sensor/Value = [0.07520794868469238]
+
+displacement = [5.304167598905912]
+
+position_x = [1.7877910137176514]
+
+position_y = [-4.993795871734619]
+
+Device/SubDeviceList/LFoot/FSR/TotalWeight/Sensor/Value = [0.00011345078382873908]
+
+Device/SubDeviceList/InertialSensor/AngleX/Sensor/Value = [0.025311168283224106]
+
+Device/SubDeviceList/LHipPitch/ElectricCurrent/Sensor/Value = [0.0]
+
+Device/SubDeviceList/LHipRoll/Position/Sensor/Value = [0.3237159252166748]
+
+Device/SubDeviceList/RHipPitch/Position/Sensor/Value = [-0.06293606758117676]
+
+Device/SubDeviceList/RFoot/FSR/CenterOfPressure/X/Sensor/Value = [-0.029650002717971802]
+
+Device/SubDeviceList/InertialSensor/AngleY/Sensor/Value = [-1.5381990671157837]
+
+Device/SubDeviceList/LHipRoll/ElectricCurrent/Sensor/Value = [0.0]
+
+Device/SubDeviceList/LKneePitch/Position/Sensor/Value = [1.5032780170440674]
+
+Device/SubDeviceList/RHipRoll/ElectricCurrent/Sensor/Value = [0.0]
+
+Device/SubDeviceList/LFoot/FSR/CenterOfPressure/X/Sensor/Value = [-0.030249999836087227]
+
+Device/SubDeviceList/RAnkleRoll/ElectricCurrent/Sensor/Value = [0.0]
+
+Device/SubDeviceList/RFoot/FSR/TotalWeight/Sensor/Value = [0.25723451375961304]
+
+Device/SubDeviceList/RHipPitch/ElectricCurrent/Sensor/Value = [0.0]
+
+Device/SubDeviceList/RFoot/FSR/CenterOfPressure/Y/Sensor/Value = [-0.029899999499320984]
+
+Device/SubDeviceList/LAnklePitch/Position/Sensor/Value = [-0.9802680015563965]
+
+Device/SubDeviceList/RAnklePitch/Position/Sensor/Value = [-0.36658406257629395]
+
+Device/SubDeviceList/LFoot/FSR/CenterOfPressure/Y/Sensor/Value = [0.029899999499320984]
+
+Device/SubDeviceList/LAnkleRoll/ElectricCurrent/Sensor/Value = [0.0]
+
+Device/SubDeviceList/RKneePitch/Position/Sensor/Value = [1.0799779891967773]
+
+Device/SubDeviceList/LAnklePitch/ElectricCurrent/Sensor/Value = [0.0]
+
+Device/SubDeviceList/LHipYawPitch/ElectricCurrent/Sensor/Value = [0.0]
+
+Device/SubDeviceList/RKneePitch/ElectricCurrent/Sensor/Value = [0.0]
+
+Device/SubDeviceList/InertialSensor/GyroscopeZ/Sensor/Value = [0.0002663161139935255]
+
+Device/SubDeviceList/InertialSensor/AngleZ/Sensor/Value = [-1.910956621170044]
+
+Device/SubDeviceList/InertialSensor/AccelerometerY/Sensor/Value = [0.009580078534781933]
+
+Device/SubDeviceList/RAnkleRoll/Position/Sensor/Value = [0.01691603660583496]
+
+Device/SubDeviceList/RAnklePitch/ElectricCurrent/Sensor/Value = [0.0]
+
+Device/SubDeviceList/InertialSensor/AccelerometerX/Sensor/Value = [-9.666298866271973]
+
+Device/SubDeviceList/InertialSensor/GyroscopeY/Sensor/Value = [0.005592638626694679]
+
+Device/SubDeviceList/RHipRoll/Position/Sensor/Value = [-0.19477605819702148]
+
+Device/SubDeviceList/InertialSensor/AccelerometerZ/Sensor/Value = [-0.3640429973602295]
+

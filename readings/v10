@@ -1,0 +1,113 @@
+
+Description:
+----------
+
+
+
+
+Gait parameters:
+----------
+
+MaxStepX = 0.0799999982119
+TorsoWy = -0.0842214207066
+TorsoWx = -0.0535481872394
+StepHeight = 0.0256276590016
+Stiffness = 0.0191489361702
+MaxStepTheta = 0.0855053363224
+MaxStepY = 0.126482979177
+MaxStepFrequency = 0.031914893617
+
+
+Stats:
+----------
+
+average_speed = 0.287110658145
+final_displacement = None
+elapsed_time = 0
+
+
+Sensor values:
+----------
+
+times = []
+
+Device/SubDeviceList/LHipPitch/Position/Sensor/Value = []
+
+Device/SubDeviceList/LHipYawPitch/Position/Sensor/Value = []
+
+Device/SubDeviceList/InertialSensor/GyroscopeX/Sensor/Value = []
+
+Device/SubDeviceList/LKneePitch/ElectricCurrent/Sensor/Value = []
+
+Device/SubDeviceList/LAnkleRoll/Position/Sensor/Value = []
+
+displacement = []
+
+position_x = []
+
+position_y = []
+
+Device/SubDeviceList/LFoot/FSR/TotalWeight/Sensor/Value = []
+
+Device/SubDeviceList/InertialSensor/AngleX/Sensor/Value = []
+
+Device/SubDeviceList/LHipPitch/ElectricCurrent/Sensor/Value = []
+
+Device/SubDeviceList/LHipRoll/Position/Sensor/Value = []
+
+Device/SubDeviceList/RHipPitch/Position/Sensor/Value = []
+
+Device/SubDeviceList/RFoot/FSR/CenterOfPressure/X/Sensor/Value = []
+
+Device/SubDeviceList/InertialSensor/AngleY/Sensor/Value = []
+
+Device/SubDeviceList/LHipRoll/ElectricCurrent/Sensor/Value = []
+
+Device/SubDeviceList/LKneePitch/Position/Sensor/Value = []
+
+Device/SubDeviceList/RHipRoll/ElectricCurrent/Sensor/Value = []
+
+Device/SubDeviceList/LFoot/FSR/CenterOfPressure/X/Sensor/Value = []
+
+Device/SubDeviceList/RAnkleRoll/ElectricCurrent/Sensor/Value = []
+
+Device/SubDeviceList/RFoot/FSR/TotalWeight/Sensor/Value = []
+
+Device/SubDeviceList/RHipPitch/ElectricCurrent/Sensor/Value = []
+
+Device/SubDeviceList/RFoot/FSR/CenterOfPressure/Y/Sensor/Value = []
+
+Device/SubDeviceList/LAnklePitch/Position/Sensor/Value = []
+
+Device/SubDeviceList/RAnklePitch/Position/Sensor/Value = []
+
+Device/SubDeviceList/LFoot/FSR/CenterOfPressure/Y/Sensor/Value = []
+
+Device/SubDeviceList/LAnkleRoll/ElectricCurrent/Sensor/Value = []
+
+Device/SubDeviceList/RKneePitch/Position/Sensor/Value = []
+
+Device/SubDeviceList/LAnklePitch/ElectricCurrent/Sensor/Value = []
+
+Device/SubDeviceList/LHipYawPitch/ElectricCurrent/Sensor/Value = []
+
+Device/SubDeviceList/RKneePitch/ElectricCurrent/Sensor/Value = []
+
+Device/SubDeviceList/InertialSensor/GyroscopeZ/Sensor/Value = []
+
+Device/SubDeviceList/InertialSensor/AngleZ/Sensor/Value = []
+
+Device/SubDeviceList/InertialSensor/AccelerometerY/Sensor/Value = []
+
+Device/SubDeviceList/RAnkleRoll/Position/Sensor/Value = []
+
+Device/SubDeviceList/RAnklePitch/ElectricCurrent/Sensor/Value = []
+
+Device/SubDeviceList/InertialSensor/AccelerometerX/Sensor/Value = []
+
+Device/SubDeviceList/InertialSensor/GyroscopeY/Sensor/Value = []
+
+Device/SubDeviceList/RHipRoll/Position/Sensor/Value = []
+
+Device/SubDeviceList/InertialSensor/AccelerometerZ/Sensor/Value = []
+
